@@ -1,0 +1,15 @@
+body{
+    background-color: #aabbcc;
+   padding:2%;
+}
+form{
+    background-color: #849db6;
+    margin-left: 35%;
+    margin-right: 35%;
+    margin-top:3%;
+    font-size: larger;
+    padding:3%;
+}
+h1{
+    text-align: center;
+}
